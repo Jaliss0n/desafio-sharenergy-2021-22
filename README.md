@@ -1,3 +1,14 @@
+Jalisson da Conceição Santos
+
+Para Rodar o BACK-END, apenas e necessario digitar o comando "node index.js" no terminal do projeto
+
+Para Rodar o FRONT-END, apenas e necessario digitar o comando "npm start" no terminal do projeto
+
+Link da explicação do Projeto
+
+https://youtu.be/S1uoO4ZdQnk
+
+
 # Desafio para processo seletivo SHARENERGY 2021/22
 
 Esse repositório se destina aos interessados em participar do processo seletivo da SHARENERGY 2021/22. As vagas são voltadas para desenvolvedores de aplicativos Web.
